@@ -623,8 +623,6 @@ Integrated B.Tech and M.Tech Program
 
 ---
 
-📧 [pranjal2004upadhyay@gmail.com](mailto:pranjal2004upadhyay@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/pranjalupadhyay0142) • 🐱 [GitHub](https://github.com/upadhyaypranjal)
-
 </div>
 
 ---
