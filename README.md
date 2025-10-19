@@ -179,13 +179,14 @@ END
 
 | System OFF | System ON |
 |:----------:|:---------:|
-| ![System OFF](./images/off_state.jpg) | ![System ON](./images/on_state.jpg) |
+| ![System OFF](./images/off-state.jpg) | ![System ON](./images/on-state.jpg) |
 
 </div>
 
 ### Circuit Diagram
 
 ![Circuit Diagram](./images/ckt_dg.png)
+
 *Complete wiring diagram showing all connections*
 
 ### Results Display
@@ -201,6 +202,7 @@ END
 ### Workflow Diagram
 
 ![Workflow](./images/block_diagram.png)
+
 *System operation flow from startup to result display*
 
 ---
