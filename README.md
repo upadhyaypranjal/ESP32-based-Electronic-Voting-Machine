@@ -189,15 +189,13 @@ END
 
 *Complete wiring diagram showing all connections*
 
-### Results Display
+## Results
 
-<div align="center">
+### LCD Display
+![LCD Display](./images/results_lcd.png)
 
-| LCD Results | ThingSpeak Cloud |
-|:-----------:|:----------------:|
-| ![LCD Display](./images/results_lcd.png) | ![ThingSpeak](./images/result.png) |
-
-</div>
+### ThingSpeak Cloud
+![ThingSpeak](./images/result.png)
 
 ### Workflow Diagram
 
