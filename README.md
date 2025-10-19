@@ -195,7 +195,7 @@ END
 
 | LCD Results | ThingSpeak Cloud |
 |:-----------:|:----------------:|
-| ![LCD Display](./images/results_lcd.jpg) | ![ThingSpeak](./images/result.png) |
+| ![LCD Display](./images/results_lcd.png) | ![ThingSpeak](./images/result.png) |
 
 </div>
 
