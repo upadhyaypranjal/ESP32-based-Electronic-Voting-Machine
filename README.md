@@ -179,13 +179,13 @@ END
 
 | System OFF | System ON |
 |:----------:|:---------:|
-| ![System OFF](./images/system_off.jpg) | ![System ON](./images/system_on.jpg) |
+| ![System OFF](./images/off_state.jpg) | ![System ON](./images/on_state.jpg) |
 
 </div>
 
 ### Circuit Diagram
 
-![Circuit Diagram](./images/circuit_diagram.png)
+![Circuit Diagram](./images/ckt_dg.png)
 *Complete wiring diagram showing all connections*
 
 ### Results Display
@@ -194,7 +194,7 @@ END
 
 | LCD Results | ThingSpeak Cloud |
 |:-----------:|:----------------:|
-| ![LCD Display](./images/lcd_results.jpg) | ![ThingSpeak](./images/thingspeak_results.png) |
+| ![LCD Display](./images/results_lcd.jpg) | ![ThingSpeak](./images/result.png) |
 
 </div>
 
